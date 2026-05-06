@@ -9,8 +9,6 @@ I work across tech consulting and product-based company in Singapore and Canada 
 
 **What I do**: I turn raw data into clear, actionable insights for business decision‑making. 
 
-Right now, I'm looking for Data Analyst roles (contract or permanent) (No Visa sponsorship needed)
-
 ---
 
 ## Recent Projects
