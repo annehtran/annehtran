@@ -42,5 +42,5 @@ Data importing and cleaning, visualizing charts, findings and recommendation
 
 2. **Mind-set priciple.** I start working on dataset after I define a purpose, when I can answer "What decision does this support?", "Who's benefit from this?"
 
-3. **Unique value.** Calm and selected. I bring a positive and calm presence to dissolve the intense situation and complex issue by perceiving the environment and finding root-cause, turn chaos into direction.
+3. **Unique value.** Calm and collected. I bring a positive and calm presence to dissolve the intense situation and complex issue by perceiving the environment and finding root-cause, turn chaos into direction.
 
